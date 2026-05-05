@@ -24,7 +24,7 @@
 | **Dataset** | Wisconsin Breast Cancer Diagnostic (UCI ML Repository) |
 | **Model** | Random Forest Classifier |
 | **Audience** | Beginners |
-| **Tasks** | 5 hands-on participant tasks |
+| **Tasks** | 7 hands-on participant tasks |
 
 ---
 
