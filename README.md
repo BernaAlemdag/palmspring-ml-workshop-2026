@@ -177,13 +177,7 @@ Deployment of any ML model in a diagnostic context requires:
 - Regulatory clearance (e.g. FDA 510(k) or EU MDR)
 - Institutional ethics approval and ongoing post-deployment monitoring
 
----
 
-## 📄 License
-
-This workshop is released under the [MIT License](LICENSE).
-The Wisconsin Breast Cancer Diagnostic dataset is publicly available via the UCI ML Repository
-under its own terms of use.
 
 ---
 
